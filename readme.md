@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ex8ynmh4osd74psa?svg=true)](https://ci.appveyor.com/project/steklon/oop-classes)

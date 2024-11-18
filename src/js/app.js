@@ -1,7 +1,7 @@
 import { Bowman } from "./Character";
-import { bowman } from "./characters";
+import { characters } from "./characters";
 
 const user = new Bowman("user");
 
 console.log(user);
-console.log(bowman);
+console.log(characters);
