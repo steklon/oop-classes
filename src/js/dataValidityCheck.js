@@ -1,4 +1,4 @@
-import typesList from "./typesList";
+import { typesList } from "./typesList";
 
 function nameValidityCheck(name) {
   if(!(typeof(name) === "string")) {

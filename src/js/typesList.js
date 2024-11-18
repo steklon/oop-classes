@@ -1,4 +1,4 @@
-export default [
+export const typesList = [
   "Bowman", 
   "Swordsman", 
   "Magician", 
